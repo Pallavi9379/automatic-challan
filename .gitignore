@@ -1,0 +1,10 @@
+/alpr/node_modules
+frontend/node_modules
+backend/model_numberplate.pkl
+backend/model_ocr.pkl
+backend/testimages
+backend/__pycache__
+frontend/build
+alpr/.expo
+runs/detect
+alpr/assets
